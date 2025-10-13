@@ -2,13 +2,13 @@ import random
 rice=45
 sugar=40
 oil=130
-ricebrought=3
-sugarbrought=2.5
-oilbrought=1.8
+ricebought=3
+sugarbought=2.5
+oilbought=1.8
 
-totalrice=rice*ricebrought
-totalsugar=sugar*sugarbrought
-totaloil=oil*oilbrought
+totalrice=rice*ricebought
+totalsugar=sugar*sugarbought
+totaloil=oil*oilbought
 print("Total price of rice=",totalrice)
 print("Total price of sugar=",totalsugar)
 print("Total price of oil=",totaloil)
