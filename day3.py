@@ -10,7 +10,7 @@ bonus_eligible=( is_subscribed) or(user_credits>min_credits)
 user_credits+=50
 user_credits-=20
 user_credits*=2
-user_credits/=150
+user_credits%=150
 
 power_result =user_credits**2
 
